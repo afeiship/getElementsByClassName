@@ -1,0 +1,9 @@
+{
+  "name": "query-by-class",
+  "version": "1.0.0",
+  "description": "Full Compatible version for getElementsByClassName.",
+  "main": "index.js",
+  "repository": "git@github.com:afeiship/query-by-class.git",
+  "author": "feizheng <1290657123@qq.com>",
+  "license": "MIT"
+}
